@@ -2,7 +2,9 @@ import React from 'react'
 
 const Works = () => {
    return (
-      <div>Works</div>
+      <section className={`w-full bg-black h-[680px]`}>
+         Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ducimus iure voluptas incidunt quam! Animi commodi, nihil quia fugiat, nemo assumenda itaque, quaerat voluptatem ipsa hic rerum esse rem? Fugit?
+      </section>
    )
 }
 
